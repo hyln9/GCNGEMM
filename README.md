@@ -12,8 +12,11 @@ GCNGEMM is not affiliated, sponsored, or otherwise endorsed by Advanced Micro De
 
 ## Requirements
 CLRX assembler v0.1.2: https://github.com/CLRX/CLRX-mirror/releases/tag/0.1.2
+
 AMD OpenCL 2.0 fglrx driver: see https://community.amd.com/thread/202821 for details (this modified driver is made by other people)
+
 PyOpenCL: https://github.com/pyopencl/pyopencl
+
 Forked amdcovc for lifting power limit: https://github.com/hyln9/amdcovc
 
 ## Usage
